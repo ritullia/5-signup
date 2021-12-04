@@ -3,15 +3,15 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Serlokas
+# Sign up
 
 _32 group website project_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/32-grupe-serlokas/
+Site published at: https://ritullia.github.io/5-signup/
 
-Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
+Design: [Sign up](https://media.discordapp.net/attachments/850245533838868480/850246368214908970/day1dr.png?width=631&height=473)
 
 ## Project features
 
