@@ -32,7 +32,7 @@ Rita: [Github](https://github.com/ritullia)
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Serlokas</title>
+    <title>Sing up</title>
 </head>
 ```
 
