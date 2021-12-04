@@ -16,8 +16,10 @@ Design: [Sign up](https://media.discordapp.net/attachments/850245533838868480/85
 ## Project features
 
 -   Github pages
--   CSS
--   Image
+-   HTML form
+-   CSS position absolute
+-   CSS background image
+-   CSS blur effect
 
 ## Authors
 
