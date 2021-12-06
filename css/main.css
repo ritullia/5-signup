@@ -1,0 +1,40 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+   display: inline-block;
+   width: 800px;
+   margin-top: 80px;
+   margin-left: calc(50% - 400px);
+}
+
+body {
+    background-color: #533C91;
+}
+
+.left-column {
+    width: 40%;
+    float: left;
+    padding: 40px;
+    margin-top: 20px;
+    background-color: #4288DB;
+}
+
+.right-column {
+    width: 60%;
+    float: left;
+    padding: 60px;
+    background-color: #fff;
+
+}
+
+
+
+
+ 
