@@ -34,6 +34,30 @@ body {
 
 }
 
+.main-title {
+    color: #fff;
+    font-size: 32px;
+    font-weight: normal;
+    width: 100%;
+
+}
+
+.bottom-links {
+    width: 100%;
+}
+
+.bottom-links > .link {
+    color: #fff;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.bottom-links > .symbol {
+
+}
+
+
+
 
 
 
