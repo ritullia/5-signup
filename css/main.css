@@ -24,6 +24,10 @@ body {
     padding: 40px;
     margin-top: 20px;
     background-color: #4288DB;
+    background-image: url(../images/mountain.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .right-column {
@@ -53,16 +57,16 @@ body {
 }
 
 .bottom-links > .symbol {
+    color: #fff;
 
 }
 
 .close {
-    width: 100%;
+    width: 2%;
     display: inline-block;
     background-color: crimson;
 
 }
-
 
 
 
