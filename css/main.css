@@ -24,7 +24,7 @@ body {
     padding: 40px;
     margin-top: 20px;
     background-color: #4288DB;
-    background-image: url(../images/hill.png);
+    background-image: url(../images/mountain.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -67,12 +67,6 @@ body {
     background-color: crimson;
 
 }
-
-.form {
-    color: #fff;
-    background-color: blue;
-}
-
 
 
 
