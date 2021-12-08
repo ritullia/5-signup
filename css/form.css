@@ -12,7 +12,6 @@
 
 .form > .form-row:last-of-type {
     margin-bottom: 0px;
-
 }
 
 .form > .form-row > label {
@@ -27,15 +26,15 @@
     font-size: 20px;
     line-height: 40px;
     border: none;
-    border-bottom-color: 5px solid red;
+    border-bottom: 2px solid #807f7f;
 }
 
 .form > .form-row > input:focus {
-    outline: 1px solid grey;
+    outline: 1px dotted #807f7f;
 }
 
 
 .form input::placeholder {
-    color: rgb(160, 160, 160);
+    color: #807f7f;
     font-style: italic;
 }
