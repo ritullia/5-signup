@@ -13,7 +13,8 @@
     <meta name="theme-color" content="#ffffff">
 
    <!--components-->
-    <link rel="stylesheet" href="./css/form.css">
+   <link rel="stylesheet" href="./css/button.css">
+   <link rel="stylesheet" href="./css/form.css">
 
     <!--custom style-->
     <link rel="stylesheet" href="./css/main.css">
@@ -35,22 +36,26 @@
                 <div class="close">x</div>
                 <form class="form">
                     <div class="form-row">
-                        <label for="">Username</label>
-                        <input type="text" placeholder="Your text...">
+                        <label for="username">Username</label>
+                        <input id="username" type="text" placeholder="Your username..." required>
                     </div>
                     <div class="form-row"> 
-                        <label for="">Email</label>
-                        <input type="text" placeholder="Your text...">
+                        <label for="email">Email</label>
+                        <input id="email" type="text" placeholder="Your email..." required>
                     </div>
                     <div class="form-row">
-                        <label for="">Password</label>
-                        <input type="password" placeholder="Your text...">
+                        <label for="pass">Password</label>
+                        <input id="pass" type="password" placeholder="Your password..." required>
                     </div>
                     <div class="form-row">
-                        <label for="">Repeat password</label>
-                        <input type="password" placeholder="Your text...">
+                        <label for="re-pass">Repeat password</label>
+                        <input id="re-pass" type="password" placeholder="Repeat password" required>
                     </div>
-                    <div class="form-row"></div>
+                    <div class="form-row">
+                        <button class="btn" type="submit">Register now</button>
+                        <span>or</span>
+                        <a href="#">Sign in</a>
+                    </div>
                 </form>     
             </div>
         </main>
