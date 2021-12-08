@@ -7,6 +7,12 @@
     display: inline-block;
     width: 100%;
     margin-bottom: 30px;
+    
+}
+
+.form > .form-row:last-of-type {
+    margin-bottom: 0px;
+
 }
 
 .form > .form-row > label {
@@ -19,7 +25,17 @@
     display: inline-block;
     width: 100%;
     font-size: 20px;
-    border-top: none;
-    border-right: none;
-    border-left: none;
+    line-height: 40px;
+    border: none;
+    border-bottom-color: 5px solid red;
+}
+
+.form > .form-row > input:focus {
+    outline: 1px solid grey;
+}
+
+
+.form input::placeholder {
+    color: rgb(160, 160, 160);
+    font-style: italic;
 }
